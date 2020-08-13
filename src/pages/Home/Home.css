@@ -1,0 +1,17 @@
+.about, .projects, .contact{
+    text-align: left;
+    padding: 45px;
+}
+
+.about {
+    background-color: #fccf17;
+}
+
+.projects{
+    background-color: #dedede;
+}
+
+.contact{
+    background-color: #fccf17;
+
+}

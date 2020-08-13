@@ -1,0 +1,30 @@
+.first {
+    background-color: #dedede;
+}
+.second {
+    background-color: white;
+}
+.third {
+    background-color: #dedede;
+}
+.fourth {
+    background-color: white;
+}
+.first, .second, .third, .fourth {
+    text-align: left;
+    padding: 20px;
+}
+.image{
+    margin-bottom: 10px;
+}
+.experience{
+    text-align: left;
+    padding-top: 20px;
+}
+ul li {
+    list-style-type: square;
+}
+.horizontal {
+    border: 1.5px solid orange;
+}
+

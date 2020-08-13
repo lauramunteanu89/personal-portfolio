@@ -1,0 +1,14 @@
+.pig, .todo, .healthy, .rock {
+    height: 200px;
+    margin: auto;
+    top: 0;
+    border: 2px solid orange;
+}
+.technology{
+    font-style: italic;
+    color: gray;
+}
+.firstgame, .secondgame, .thirdgame, .fourthgame{
+    text-align: left;
+    margin-bottom: 50px;
+}
